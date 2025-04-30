@@ -32,8 +32,11 @@ ________________________________________
 ________________________________________
 💡 Business Recommendations
 •	Upsell to top customers through bundles, loyalty rewards, or exclusive coffee types.
+
 •	Explore why U.S. sales are dominant and replicate strategies in underperforming regions like the UK.
+
 •	Promote niche types (Liberica, Excelsa) through marketing to increase their share.
+
 •	Investigate early 2022 drop—seasonal trend or underlying issue?
 ________________________________________
 

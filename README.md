@@ -31,6 +31,7 @@ ________________________________________
 3.	Impact of the loyalty card on purchasing behavior (filter “Yes” vs “No”).
 ________________________________________
 💡 Business Recommendations
+
 •	Upsell to top customers through bundles, loyalty rewards, or exclusive coffee types.
 
 •	Explore why U.S. sales are dominant and replicate strategies in underperforming regions like the UK.

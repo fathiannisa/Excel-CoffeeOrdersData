@@ -35,15 +35,51 @@ ________________________________________
 
 •	Allis Wilmore stands out as the highest-value customer ($317), representing a candidate for loyalty rewards or or exclusive offers.
 ________________________________________
-## 5. Behavioral Filters
+## 5. Behavioral Filters (The dashboard includes filters for roast type, pack size, and loyalty card status, enabling dynamic segmentation.)
 
-•	The dashboard includes filters for roast type, pack size, and loyalty card status, enabling dynamic segmentation.
+### a. Impact of the loyalty card on purchasing behavior (filter “Yes” vs “No”)
+Customers who use loyalty cards contribute more to total sales, and show stronger, more stable spending patterns over time ($19,174) to those without loyalty cards ($16,465).
 
-  a.	Most popular roast type (Dark/Light/Medium).
-    
-  b.	Best-selling pack size (1.0 kg may dominate due to value perception).
-    
-  c.	Impact of the loyalty card on purchasing behavior (filter “Yes” vs “No”).
+**Suggestion:**
+
+- Provide exclusive deals or personalized promotions to loyalty members to boost engagement even further.
+
+- Consider digging deeper into how often loyalty customers buy — this could help fine-tune strategies like rewards or seasonal campaigns.
+
+
+### b. Most popular roast type (Dark/Light/Medium) and Best-selling pack size
+
+☕ Light Roast
+
+Main Coffee Type: Arabica
+
+Top Sizes: 0.2 kg, 0.5 kg
+
+Insight: Customers prefer mild and aromatic coffee in smaller sizes, indicating Light Roast is favored by new or casual drinkers.
+
+Suggestion: Launch a “Discovery Pack” — compact, giftable bundles designed to invite first-timers into the world of premium coffee.
+
+☕ Medium Roast
+
+Main Bean: Mostly Arabica, with some Excelsa
+
+Popular Sizes: 0.5 kg, 1 kg
+
+Insight: Medium Roast is purchased across various sizes, indicating it's a versatile, everyday choice. The mix of beans adds flavor complexity.
+
+Suggestion: Promote as an all-purpose coffee. Market as an everyday choice with flexible sizes 
+
+☕ Dark Roast
+
+Main Coffee Type: Robusta
+
+Top Sizes: 1 kg, 2 kg
+
+Insight: Dark Roast drinkers are dedicated and decisive, choosing intensity and buying in bulk — they know what they want.
+
+Suggestion: Launch a “Bold Series” a large-size options with bulk savings and loyalty perks for your most passionate customers.
+  
+ 
 ________________________________________
 💡 Business Recommendations
 
